@@ -1,0 +1,17 @@
+{
+  "transport": "scp",
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "52.90.145.239",
+  "port": "22",
+  "target": "/home/ec2-user",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "watch": [],
+  "username": "ec2-user",
+  "keyfile": "C:\\Users\\Devang\\Desktop\\RubyBox.key",
+  "passphrase": " "
+}
